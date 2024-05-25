@@ -5,15 +5,15 @@ public class Main {
 }
 
 class Tutor{
-    private String name;
-    private String academicInfo;
-    private String specialization;
-    private String reservations;
-    private int hourly_rate;
+    public String name;
+    public String academicInfo;
+    public String specialization;
+    public String reservations;
+    public int hourly_rate;
 
 }
 
 class Tutors{
-    private String ListOfTutors;
+    public String[] ListOfTutors;
 
 }
