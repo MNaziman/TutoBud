@@ -11,6 +11,7 @@ class Tutor{
     public double hourly_rate;
     public list<String> reservations;
 
+
     public Tutor(String name,String academicInfo,String specialization,double hourly_rate,){
         this.name=name;
         this.academicInfo=academicInfo;
@@ -21,5 +22,5 @@ class Tutor{
 }
 
 class Tutors{
-    
+
 }
