@@ -12,3 +12,7 @@ class Tutor{
     private String reservations;
 
 }
+
+class Tutors{
+    private String List_of_tutors;
+}
