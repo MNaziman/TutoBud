@@ -21,6 +21,5 @@ class Tutor{
 }
 
 class Tutors{
-    public String ListOfTutors;
-
+    
 }
