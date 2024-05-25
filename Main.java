@@ -6,13 +6,14 @@ public class Main {
 
 class Tutor{
     private String name;
-    private int hourly_rate;
     private String academic_info;
     private String specialization;
     private String reservations;
+    private int hourly_rate;
 
 }
 
 class Tutors{
     private String List_of_tutors;
+
 }
