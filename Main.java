@@ -6,7 +6,7 @@ public class Main {
 
 class Tutor{
     private String name;
-    private String academic_info;
+    private String academicInfo;
     private String specialization;
     private String reservations;
     private int hourly_rate;
@@ -14,6 +14,6 @@ class Tutor{
 }
 
 class Tutors{
-    private String List_of_tutors;
+    private String ListOfTutors;
 
 }
