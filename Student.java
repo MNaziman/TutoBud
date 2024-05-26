@@ -15,6 +15,5 @@ public class Student {
         System.out.println("Stadium");
     }
     public static void phoneNum(){
-        System.out.println("123456");
     }
 }
